@@ -1,5 +1,14 @@
-# Vue 3 + TypeScript + Vite
+# WebMeester
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+**WebMeester** is a modern web application built with **Vue 3**, **TypeScript**, and **Vite**. It provides users with an intuitive interface for managing web content, focusing on performance and scalability.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## 🚀 Features
+
+- **Modern tech stack**: Built with Vue 3, TypeScript, and Vite.
+- **Responsive design**: Optimized for various devices and screen sizes.
+- **Scalable architecture**: Designed with future expansions and maintainability in mind.
+
+## 🛠️ Requirements
+
+- [Node.js](https://nodejs.org/) (version 16 or higher)
+- [npm](https://www.npmjs.com/) (included with Node.js)
